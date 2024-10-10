@@ -1,4 +1,4 @@
-# Logistic-regression
+# Titanic Survival Prediction
 
 ## Logistic Regression Analysis and Deployment for Survival Prediction
 ### Objective:
